@@ -1,1 +1,0 @@
-# GearUp-sports-website
