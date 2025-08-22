@@ -15,4 +15,5 @@ export default defineConfig({
     outDir: 'dist',
     assetsDir: 'assets'
   }
+  base: process.env.VITE_BASE_PATH || "/GearUp-sports-website"
 });
